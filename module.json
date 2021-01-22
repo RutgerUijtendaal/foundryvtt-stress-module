@@ -1,0 +1,11 @@
+{
+  "name": "stress",
+  "title": "Stress Module",
+  "description": "Module for adding stress debuffs to player characters.",
+  "author": "Rutger Uijtendaal",
+  "version": "WILL BE AUTO REPLACED",
+  "minimumCoreVersion": "0.5.0",
+  "url": "https://github.com/RutgerUijtendaal/foundryvtt-stress-module",
+  "manifest": "https://raw.githubusercontent.com/eHanus/RutgerUijtendaal/releases/latest/download/system.json",
+  "download": "https://github.com/eHanus/RutgerUijtendaal/releases/latest/download/system.zip"
+}
