@@ -1,7 +1,7 @@
-Hooks.once('init', async function() {
-
+Hooks.once("init", async function () {
+  console.log("Initializing Stress module");
 });
 
-Hooks.once('ready', async function() {
-
+Hooks.once("ready", async function () {
+  console.log("Stress module initialized");
 });
